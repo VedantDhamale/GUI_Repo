@@ -7,7 +7,7 @@ Crater and boulder detection using _YOLOv8 and SAM (Segment Anything Model)_, wh
 <ul>
   <li>Image Upload</li>
   <li>Webcam Image Capture</li>
-  <li>Webcam Video Realtime</li>
+<!--   <li>Webcam Video Realtime</li> -->
   </ul>
 </div>
 
