@@ -14,7 +14,7 @@ Crater and boulder detection using _YOLOv8 and SAM (Segment Anything Model)_, wh
 **🔥 Official Website :** link to site
 
 <div align="center">
-  <img src="/assets/Web_Page.png" width="95%"/>
+  <img src="/assets/Web_page.png" width="95%"/>
 </div>
 
 ## To Run (Locally)
