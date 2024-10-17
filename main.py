@@ -1,6 +1,7 @@
 
 # from io import BytesIO
 # import streamlit as st
+
 # import numpy as np
 # from PIL import Image, ImageColor
 # from streamlit_webrtc import webrtc_streamer, RTCConfiguration
@@ -263,7 +264,7 @@ st.markdown(title, unsafe_allow_html=True)
 
 supported_modes = "<html> " \
                   "<body><div> <b>Supported Detection Modes (Change modes from sidebar menu)</b>" \
-                  "<ul><li>Image Upload</li><li>Webcam Image Capture</li></ul>" \
+                  "<ul><li>Image Upload</li><li>Webcam Image Capture</li><li>Webcam Realtime Capture</li></ul>" \
                   "</div></body></html>"
 st.markdown(supported_modes, unsafe_allow_html=True)
 
