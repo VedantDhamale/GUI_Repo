@@ -22,7 +22,8 @@ Crater and boulder detection using _YOLOv8 and SAM (Segment Anything Model)_, wh
 1. Git clone the repository on your local system.
 
 ```
-git clone https://github.com/VedantDhamale/Project_GUI.git
+git clone https://github.com/VedantDhamale/GUI_Repo.git
+
 ```
 
 2. Install the required dependencies to run the app
