@@ -15,7 +15,7 @@ supported_modes = "<html> " \
                   "</div></body></html>"
 st.markdown(supported_modes, unsafe_allow_html=True)
 
-st.warning("NOTE : Click the arrow icon at Top-Left to open Sidebar menu. ")
+# st.warning("NOTE : Click the arrow icon at Top-Left to open Sidebar menu. ")
 
 detection_mode = None
 bbox_thickness = 3
