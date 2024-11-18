@@ -5,7 +5,7 @@ from PIL import Image, ImageColor
 import cv2
 
 st.set_page_config(page_title="Crater and Boulder Detection", layout="centered")
-1
+
 title = '<p style="text-align: center;font-size: 40px;font-weight: 550; "> Automatic Craters & Boulders Detection </p>'
 st.markdown(title, unsafe_allow_html=True)
 
